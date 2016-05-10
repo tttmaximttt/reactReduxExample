@@ -16,6 +16,6 @@ describe( 'actions', () => {
 	        expect(action.payload).to.equal('New comment');
         } );
 
-    } );
+    } )
 
 } );
